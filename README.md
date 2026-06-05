@@ -13,5 +13,7 @@ Screenshots:
 ![image alt](https://github.com/Mr-Potato151/My_Portfolio/blob/main/cb74562d-02f6-45aa-9ba7-ac85ea335c13.jpg) 
 ![image alt](https://github.com/Mr-Potato151/My_Portfolio/blob/main/bdfc0ef9-386e-4694-b20f-e1cf53383fca.jpg)
 ![image alt](https://github.com/Mr-Potato151/My_Portfolio/blob/main/74a2494b-020c-4cfd-935f-ac1d136a9d77.jpg)
+![image alt](https://github.com/Mr-Potato151/My_Portfolio/blob/main/484a4ade-a9f5-4246-b4a7-159d3be2016c.jpg)
+![image alt](https://github.com/Mr-Potato151/My_Portfolio/blob/main/20ca5662-940c-4e11-b474-fa8e32b87a71.jpg)
 
 Live Website Link: https://my-0nline-portfolio.netlify.app/
